@@ -1,0 +1,6 @@
+H:\Proyectos\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\ABB.Catalogo.Entidades.dll
+H:\Proyectos\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\bin\Debug\ABB.Catalogo.Entidades.pdb
+H:\Proyectos\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.AssemblyReference.cache
+H:\Proyectos\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.csproj.CoreCompileInputs.cache
+H:\Proyectos\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.dll
+H:\Proyectos\Abb Catalogo\ABB.Catalogo\ABB.Catalogo.Entidades\obj\Debug\ABB.Catalogo.Entidades.pdb
